@@ -56,7 +56,7 @@ namespace DotInfo
 			AnalyzeModule(module);
 		}
 
-		[Command("analyzeallemodules")]
+		[Command("analyzeallmodules")]
 		public void AnalyzeAllModulesCmd(string[] args)
 		{
 			if (Runtime == null)
