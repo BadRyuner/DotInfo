@@ -1,0 +1,12 @@
+﻿{
+  "Name": "DotInfo",
+  "Description": "Adds some features for debugging dotnet apps",
+  "Version": "1.0.0",
+  "Author": "BadRyuner",
+  "Website": "",
+  "Dependencies": [
+    "System.Console.dll",
+    "System.Collections.Immutable.dll",
+    "Microsoft.Diagnostics.Runtime,Version=v2.4.416101"
+  ]
+}
